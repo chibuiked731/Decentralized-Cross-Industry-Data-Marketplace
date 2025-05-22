@@ -13,6 +13,7 @@
   }
 )
 
+
 ;; Public function to verify a provider
 (define-public (verify-provider
                 (provider principal)
